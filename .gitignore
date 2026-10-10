@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Build outputs
+build/
+dist/
+build_temp/
+*.exe
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
